@@ -1,0 +1,7 @@
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\PremiumV3.exe
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\PremiumV3.dll
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\PremiumV3.deps.json
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\PremiumV3.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\PremiumV3\obj\Debug\net6.0\PubTmp\Out\PremiumV3.pdb

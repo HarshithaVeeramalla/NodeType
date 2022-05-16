@@ -1,0 +1,9 @@
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.exe
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.dll
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.deps.json
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.pdb
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.Views.dll
+C:\Users\v-harshithav\source\repos\ConnectionString\ConnectionString\obj\Release\netcoreapp3.1\PubTmp\Out\ConnectionString.Views.pdb

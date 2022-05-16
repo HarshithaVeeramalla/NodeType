@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27d6d51f-cebf-45f5-b81f-5f9fd5dd8e03": {
+      "ProjectGuid": "27d6d51f-cebf-45f5-b81f-5f9fd5dd8e03",
+      "DisplayName": "WebApplication11",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

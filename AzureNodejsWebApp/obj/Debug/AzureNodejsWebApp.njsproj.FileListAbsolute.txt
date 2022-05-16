@@ -1,0 +1,3 @@
+C:\Users\v-harshithav\source\repos\AzureNodejsWebApp\obj\Debug\AzureNodejsWebApp.njsproj.AssemblyReference.cache
+C:\Users\v-harshithav\source\repos\AzureNodejsWebApp\obj\Debug\AzureNodejsWebApp.njsproj.CoreCompileInputs.cache
+C:\Users\v-harshithav\source\repos\AzureNodejsWebApp\bin\Microsoft.NodejsTools.WebRole.dll

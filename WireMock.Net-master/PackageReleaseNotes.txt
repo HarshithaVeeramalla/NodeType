@@ -1,0 +1,6 @@
+# 1.4.41 (21 April 2022)
+- #746 Allow Timeout.InfiniteTimeSpan for WithDelay [feature]
+- #747 Update the logic for ProxyAndRecord
+- #744 System.ArgumentOutOfRangeException when Timeout.InfiniteTimeSpan used as an argument for IResponseBuilder.WithDelay() [bug]
+
+The full release notes can be found here: https://github.com/WireMock-Net/WireMock.Net/blob/master/CHANGELOG.md

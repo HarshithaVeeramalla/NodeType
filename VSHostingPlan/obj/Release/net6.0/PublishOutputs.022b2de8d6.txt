@@ -1,0 +1,7 @@
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\VSHostingPlan.exe
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\VSHostingPlan.dll
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\VSHostingPlan.deps.json
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\VSHostingPlan.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\VSHostingPlan\obj\Release\net6.0\PubTmp\Out\VSHostingPlan.pdb

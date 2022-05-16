@@ -1,0 +1,23 @@
+trigger:
+- none
+
+pool:
+  vmImage: 'Ubuntu-latest'
+
+variables:
+  buildProjects: '**/src/**/*.csproj'
+  buildConfiguration: 'Release'
+
+steps:
+- task: DotNetCoreCLI@2
+  displayName: Build Release
+  inputs:
+    command: 'build'
+    arguments: /p:Configuration=$(buildConfiguration)
+    projects: $(buildProjects)
+
+- task: PublishBuildArtifacts@1
+  displayName: Publish Artifacts
+  condition: succeeded()
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'

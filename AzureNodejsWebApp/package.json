@@ -1,0 +1,14 @@
+{
+  "name": "azure-nodejs-web-app",
+  "version": "0.0.0",
+  "description": "AzureNodejsWebApp",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": ""
+  }
+}

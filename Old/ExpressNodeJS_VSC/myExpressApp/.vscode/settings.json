@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b83c1ed3-c5b6-44fb-b5ba-2b83a074c23f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/AzureExpressNodeJS",
+    "appService.deploySubpath": "."
+}

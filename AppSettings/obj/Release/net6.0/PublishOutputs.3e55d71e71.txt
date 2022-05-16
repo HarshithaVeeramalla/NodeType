@@ -1,0 +1,6 @@
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\AppSettings.exe
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\AppSettings.dll
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\AppSettings.deps.json
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\AppSettings.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\AppSettings\obj\Release\net6.0\PubTmp\Out\AppSettings.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db03af78-115d-4e53-9812-3bd7a1434873": {
+      "ProjectGuid": "db03af78-115d-4e53-9812-3bd7a1434873",
+      "DisplayName": "ConnectionString_Core",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
