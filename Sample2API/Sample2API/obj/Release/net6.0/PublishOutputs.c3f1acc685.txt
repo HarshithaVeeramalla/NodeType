@@ -1,0 +1,7 @@
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\Sample2API.exe
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\Sample2API.dll
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\Sample2API.deps.json
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\Sample2API.runtimeconfig.json
+C:\Users\v-harshithav\source\repos\Sample2API\Sample2API\obj\Release\net6.0\PubTmp\Out\Sample2API.pdb
